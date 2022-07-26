@@ -1,0 +1,26 @@
+
+:root {
+    --primary-blue: #0081c4;
+    --secondary-blue: #02528b;
+    --egg-blue: #05c3e0;
+    --amaranth-pink: #da1b60;
+    --atlantis-green: #80c92c;
+    --pear: #d5dd25;
+    --white: #fff;
+    --light-grey: #f4f4f4;
+    --grey: #d2d2d2;
+    --dark-grey: #8f8f8f;
+    --black: #000;
+    --egg-blue-15: rgba(5, 195, 224, 0.15);
+    --smalt-blue-15: rgba(0, 53, 148, 0.15);
+    --overlay: rgba(0, 0, 0, 0.8);
+    --egg-blue-20: rgba(5, 195, 224, 0.2);
+    --smalt-blue: #003594;
+    --persian-green: #00ada5;
+    --sunshade: #ff9b24;
+    --dark-grey-20: rgba(143, 143, 143, 0.2);
+    --amber-2: #fec106;
+    --input-error-color: #CB333B;
+    --input-valid-color: #009639;
+    --telkom-blue: #0083c2;
+  }
